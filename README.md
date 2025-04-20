@@ -43,29 +43,7 @@ I am a professional Network Engineer, Software Developer, and Web Designer with 
 
 ## 🏆 Key Projects
 
-- **Cloud Network Automation Platform (HSBC bank):**  
-Description: Built a Python/Ansible-based platform to manage provisioning and firewall policies in hybrid cloud.
-Business Need: Slow, inconsistent provisioning processes.
-Impact: Reduced time from 3 days to 2 hours..
-Problem Solved: Unified automation across Cisco, Juniper, Palo Alto.
-  
-- **Predictive Network Health AI Engine (Booking.com):**  
-  *AI/ML (Prometheus, Scikit-learn) for failure prediction in network devices.*  
-  _Enabled proactive alerts, saving $1M+ yearly by reducing downtime._
-  
-- **Multi-Vendor Python Automation Framework for SDN Fabrics (https://www.fabrique.com/):**  
-Description: Python framework for automating EVPN/VXLAN fabric ops across Juniper, Cisco, Arista. Business Need: Manual tasks across vendors caused errors.
-Impact: Reduced provisioning time by 75%, unified CLI/API tools.
-Problem Solved: Enabled scalable, consistent fabric operations.
-  
-- **Security Compliance Automation (Tesla):**  
-Description: Developed a Python-based automation framework with Ansible to enforce security compliance across Tesla's infrastructure.
-Business Need: Manual audits were slow and error-prone.
-Impact: Automated real-time security compliance and remediation.
-  
-- **Web-based Incident Visualization Tool (Liberty Global):**  
-  *Flask/MongoDB app for real-time NOC incident visualization.*  
-  _Cut MTTR by 60%, saving $100K/year._
+_ Will be shared Soon
 
 ---
 
