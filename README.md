@@ -16,7 +16,7 @@ I am a professional Network Engineer, Software Developer, and Web Designer with 
 - 🛡️ Security Automation & Compliance
 - ⚡ Network Automation, Python, Ansible, Terraform
 - 🎨 Full-stack Web Apps & Tools
-- 🚀 Continuous learning, leadership, and innovation
+- 🚀 Continuous learning, creative thinking, and innovation
 
 ---
 
