@@ -49,7 +49,7 @@ _ Will be shared Soon
 
 ## 💼 Experience
 
-- **Senior Network, Security & Automation Engineer**  
+- **Network, Security & Automation Engineer**  
   IBM Cloud Services (2020-Present)  
   *Global multi-vendor SDN, automation, security, and cloud ops.*
 
