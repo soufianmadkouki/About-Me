@@ -43,21 +43,23 @@ I am a professional Network Engineer, Software Developer, and Web Designer with 
 
 ## 🏆 Key Projects
 
-- **IBM Cloud Network Automation Platform:**  
+- **Tesla Cloud Network Automation Platform:**  
   *Python/Ansible platform automating multi-vendor provisioning and firewall policies.*  
   _Reduced delivery time from 3 days to 2 hours, saving $500K+/year._
   
-- **Predictive Network Health AI Engine (IBM):**  
+- **Predictive Network Health AI Engine (Booking.com):**  
   *AI/ML (Prometheus, Scikit-learn) for failure prediction in network devices.*  
   _Enabled proactive alerts, saving $1M+ yearly by reducing downtime._
   
-- **Multi-Vendor Python Automation Framework for SDN Fabrics (IBM):**  
-  *Unified EVPN/VXLAN ops across Juniper, Cisco, Arista using Python.*  
-  _Reduced manual errors and provisioning by 75%._
+- **Multi-Vendor Python Automation Framework for SDN Fabrics (https://www.fabrique.com/):**  
+Description: Python framework for automating EVPN/VXLAN fabric ops across Juniper, Cisco, Arista. Business Need: Manual tasks across vendors caused errors.
+Impact: Reduced provisioning time by 75%, unified CLI/API tools.
+Problem Solved: Enabled scalable, consistent fabric operations.
   
 - **Security Compliance Automation (Tesla):**  
-  *Python/Ansible framework automating real-time compliance.*  
-  _Automated audits and remediation, eliminating manual errors._
+Description: Developed a Python-based automation framework with Ansible to enforce security compliance across Tesla's infrastructure.
+Business Need: Manual audits were slow and error-prone.
+Impact: Automated real-time security compliance and remediation.
   
 - **Web-based Incident Visualization Tool (Liberty Global):**  
   *Flask/MongoDB app for real-time NOC incident visualization.*  
