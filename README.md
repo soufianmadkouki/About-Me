@@ -43,9 +43,11 @@ I am a professional Network Engineer, Software Developer, and Web Designer with 
 
 ## 🏆 Key Projects
 
-- **Tesla Cloud Network Automation Platform:**  
-  *Python/Ansible platform automating multi-vendor provisioning and firewall policies.*  
-  _Reduced delivery time from 3 days to 2 hours, saving $500K+/year._
+- **Cloud Network Automation Platform (HSBC bank):**  
+Description: Built a Python/Ansible-based platform to manage provisioning and firewall policies in hybrid cloud.
+Business Need: Slow, inconsistent provisioning processes.
+Impact: Reduced time from 3 days to 2 hours..
+Problem Solved: Unified automation across Cisco, Juniper, Palo Alto.
   
 - **Predictive Network Health AI Engine (Booking.com):**  
   *AI/ML (Prometheus, Scikit-learn) for failure prediction in network devices.*  
